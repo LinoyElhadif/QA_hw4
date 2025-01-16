@@ -1,5 +1,6 @@
 package task4triangle.task4triangle;
-
+//Carolina Erlich 314776741
+//Linoy Elhadif 313536815
 public class Triangle_classification {
 
 	enum Triangle_Types {
